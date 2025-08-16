@@ -26,7 +26,7 @@ Predict the category of given image and suggest similar images.
 ## Results
 Model prediction for stripes dress image.
 
-![Prediction]
+![Prediction][https://github.com/Abinaya-Senthilkumar/Dress-Pattern-Recognition-using-CNN/blob/main/prediction.png]
 
 ---
 
